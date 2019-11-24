@@ -1,3 +1,7 @@
-这里是 vip 学员自己创建的目录
+# -*- conding:utf-8 -*-
+import pygame
+import random
 
-在这个目录中会涉及到你之后要写的代码，总结，笔记等内容。
+caption-width = 500画布宽
+
+什么意思？、？
